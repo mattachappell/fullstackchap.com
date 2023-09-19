@@ -6,6 +6,7 @@
     "@semantic-ui-react/css-patch": "1.0.0",
     "dotenv": "^16.3.1",
     "gatsby": "^5.12.4",
+    "gatsby-plugin-github-pages": "^1.0.1",
     "gatsby-plugin-image": "3.5.0",
     "gatsby-plugin-manifest": "5.5.0",
     "gatsby-plugin-sass": "6.5.0",
