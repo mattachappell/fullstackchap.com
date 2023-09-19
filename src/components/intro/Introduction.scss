@@ -1,0 +1,13 @@
+.social {
+    padding-top: 2em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.is-flex {
+    display: flex;
+    flex-direction: column;
+    img {
+        align-self: center;
+    }
+}
