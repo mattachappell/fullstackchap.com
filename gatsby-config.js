@@ -7,7 +7,17 @@
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
+
+require('dotenv').config({
+    path: `.env.${process.env.NODE_ENV}`
+  });
+  
 module.exports = {
+    siteMetadata: {
+        title: "Matt Chappell Portfolio",
+        description: "This is Matt Chappell's Personal Portfolio Site built with Gatsby and Semantic UI.",
+        author: "Matt Chappell",
+    },
     plugins: [
         `gatsby-plugin-image`,
         {
@@ -65,11 +75,11 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Șerban's Portfolio`,
-                short_name: `Șerban's Portfolio`,
+                name: `Matt Chappell Portfolio`,
+                short_name: `Matt Chappell Portfolio`,
                 start_url: `/`,
                 background_color: `#ffffff`,
-                theme_color: `#000000`,
+                theme_color: `#66d37e`,
                 display: `minimal-ui`,
                 icon: 'content/media/profile_relaxed_square.jpg'
             },
