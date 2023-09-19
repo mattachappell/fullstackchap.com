@@ -1,22 +1,22 @@
 {
-  "summary": "<p>Hi! I'm Serban, an IT enthusiast which works full time as a Cloud Solution Architect at DevFactory, taught Software Design at TU-CN and founded a local tech start-up.</p><p>I typically fulfill the roles of <strong>solution architect</strong> and <strong>lead developer</strong> with a strong focus on growing my team through technical challenges, training sessions, presentations and mentoring.</p><p>I have frequently switched between technologies, becoming proficient in NodeJS, Spring and the SAP ecosystem. My current target area of expertise is around <em>Amazon Web Services</em>, <em>Spring Boot</em> and <em>React</em>.</p>",
+  "summary": "<p>Hi! I'm Matt Chappell, a multi-passionate Solutions Architect and full-stack designer. With expertise spanning across multiple technologies and frameworks, I aim to create automation solutions seamlessly but also enhances user experience.</p><p>Throughout my career, I've worked in diverse environments, constantly evolving and adapting to the latest tech trends. My experiences range from developing intricate backend systems to crafting intuitive frontend interfaces. I believe in continuous learning and strive to merge innovation with best practices.</p>",
   "accounts": {
-    "linkedin": "https://ro.linkedin.com/in/serban-petrescu",
-    "github": "https://github.com/serban-petrescu/",
-    "stackoverflow": "http://stackoverflow.com/users/7612556/serban-petrescu?tab=profile",
-    "twitter": "https://twitter.com/petrescu_serban",
-    "youtube": "https://www.youtube.com/channel/UCjpkihJT18wg41Qw3jdu_HA",
-    "medium": "https://serban-petrescu.medium.com/"
+    "linkedin": "https://www.linkedin.com/in/mattchappell93/",
+    "github": "https://github.com/mattachappell/",
+    "stackoverflow": "",
+    "twitter": "",
+    "youtube": "",
+    "medium": "https://medium.com/@authent3ch"
   },
-  "repository": "https://github.com/serban-petrescu/serban-petrescu.github.io",
-  "name": "Șerban Petrescu",
-  "phone": "+40 744 865 132",
-  "cv": "/downloads/CV_Serban_Petrescu.pdf",
-  "location": "Cluj-Napoca, Romania",
-  "role": "VP of Software Engineering | Cloud Architect",
+  "repository": "https://github.com/mattachappell/fullstackmatt.com",
+  "name": "Matt Chappell",
+  "phone": "310-920-2821",
+  "cv": "content/documents/Matt Chappell resume Sept 2023.pdf",
+  "location": "Los Angeles, California, USA",
+  "role": "Solutions Architect | Automation Engineer | Full-stack Designer",
   "cover": "../media/cover.jpg",
-  "title": "Șerban's Portfolio",
-  "avatar": "../media/profile_relaxed_square.jpg",
+  "title": "Matt Chappell's Portfolio",
+  "avatar": "../media/profile_picture.jpg",
   "libraries": [
     {
       "name": "Gatsby",
@@ -31,18 +31,18 @@
       "url": "https://github.com/Semantic-Org/Semantic-UI-React"
     }
   ],
-  "website": "https://www.spetrescu.ro/",
-  "email": "Serban.Petrescu@outlook.com",
-  "description": "Portfolio of IT projects built by Șerban Petrescu",
-  "birthday": "1993-09-07",
+  "website": "Your Personal Website URL",
+  "email": "mattachappell@gmail.com",
+  "description": "Portfolio showcasing the tech projects and achievements of Matt Chappell",
+  "birthday": "Your Birthday",
   "highlights": {
     "education": {
-      "title": "Software Engineering MSc.",
-      "description": "Studying for my Master's degree at the faculty of Mathematics and Informatics, Babeș-Bolyai University."
+      "title": "Your Education Title, e.g., Computer Science BSc.",
+      "description": "Brief about your education, e.g., Studied Computer Science at XYZ University focusing on software development."
     },
     "work": {
-      "title": "VP of Software Engineering",
-      "description": "Managing a software engineering team that monitors, operates, maintains and extends several widely used products."
+      "title": "Software Engineer",
+      "description": "Brief about your work, e.g., Developing innovative software solutions at ABC Tech Company."
     }
   }
 }
